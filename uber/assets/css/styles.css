@@ -1,0 +1,114 @@
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color:white;
+  font-family:'UberMove', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color:white;
+  font-family:'UberMove', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight:bold;
+}
+
+#headTop {
+  font-family:'UberMove', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  line-height:72px;
+}
+
+.navbar-light .navbar-nav .lin {
+  padding-left:48px;
+}
+
+#head1 {
+  font-family:"Helvetica Neue", Helvetica, sans-serif;
+  font-weight:500;
+  line-height:1.15em;
+  font-size:36px;
+  color:black;
+}
+
+#para1 {
+  font-weight:200;
+  font-size:36px;
+  line-height:1.15em;
+  letter-spacing:0;
+}
+
+#car {
+  background-size:cover;
+  background-position:center;
+}
+
+.img-top {
+  float:left;
+  width:70px;
+}
+
+#ride {
+  box-sizing:border-box;
+  float:initial;
+}
+
+#form {
+  border-top:8px solid #f1f1f1;
+}
+
+#or {
+  border-bottom:2px solid;
+}
+
+.form-control.join {
+  height:50px;
+}
+
+#signUp {
+  color:#1A1A1A;
+  text-decoration:underline;
+}
+
+#paraInfo {
+  margin-top:5%;
+}
+
+#agreeStament {
+  text-align:justify;
+  font-size:11px;
+  line-height:1.6;
+  font-family:"Helvetica Neue", Helvetica, sans-serif;
+  font-weight:400;
+}
+
+.img-fluid.figure-img {
+  width:90px;
+}
+
+#ParaIntro {
+  line-height:1.71429;
+}
+
+#InputLocate {
+  border-left-color:white;
+  border-right-color:#ced4da;
+  border-top-color:#ced4da;
+  border-bottom-color:#ced4da;
+}
+
+#WStand {
+  background-size:cover;
+  background-position:center;
+  background-image: url("woman.jpg");
+  background-repeat: no-repeat;
+  /* background-color: red; */
+}
+
+#WStandReason:hover {
+  text-decoration:none;
+}
+
+#footer a {
+  color:white;
+}
+
+.last {
+  padding-left:25px;
+}
+
